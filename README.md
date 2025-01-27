@@ -122,7 +122,7 @@ The dataset used for this project includes the following key tables:
 ## 📷 Dashboard Screenshots
 
 ### **Overview Page**
-![Overview Screenshot](Dashboardscreenshots/Overview-Screenshot.PNG)
+![Overview Screenshot](Zomato-Dashboard-Screenshots/Overview-Screenshot.PNG)
 
 ### **User Performance Page**
 ![User Performance Screenshot](path/to/user-performance-screenshot.png)
