@@ -121,14 +121,17 @@ The dataset used for this project includes the following key tables:
 
 ## 📷 Dashboard Screenshots
 
+### **Index**
+![Index](Zomato-Dashboard-Screenshots/Index.png)
+
 ### **Overview Page**
-![Overview Screenshot](Overview-Screenshot.PNG)
+![Overview Screenshot](Zomato-Dashboard-Screenshots/Overview-Screenshot.PNG)
 
 ### **User Performance Page**
-![User Performance Screenshot](path/to/user-performance-screenshot.png)
+![User Performance Screenshot](Zomato-Dashboard-Screenshots/User-performance-screenshot.PNG)
 
 ### **City Performance Page**
-![City Performance Screenshot](path/to/city-performance-screenshot.png)
+![City Performance Screenshot](Zomato-Dashboard-Screenshots/City-Performance-Screenshot.PNG)
 
 ---
 
