@@ -89,23 +89,6 @@ The dataset used for this project includes the following key tables:
 
 ---
 
-## 🚀 How to Run the Project
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/zomato-dashboard.git
-   ```
-2. **Open the Power BI File:**
-   - Download and open the `.pbix` file in **Power BI Desktop**.
-3. **Connect to the Dataset:**
-   - Use the provided sample dataset or connect to your own database.
-4. **Refresh Data:**
-   - Click on `Refresh` to load the latest data into the dashboard.
-5. **Explore the Dashboard:**
-   - Navigate through the **Overview**, **User Performance**, and **City Performance** pages.
-
----
-
 ## 🛠️ Key Insights
 
 ### **Business Impact**
